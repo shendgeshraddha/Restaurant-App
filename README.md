@@ -21,3 +21,5 @@ MongoDB: For data storage, particularly for reservation information
 
 Resources:
 Various tutorials and guides, especially from YouTube, to aid development
+![Screenshot 2024-11-07 230042](https://github.com/user-attachments/assets/d63d937e-93b7-40f7-bb48-299a0952eb2c)
+
