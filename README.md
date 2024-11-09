@@ -3,6 +3,7 @@ Shraddha's Restaurant Website
 Welcome to the Shraddha's Restaurant website repository! This repository contains the source code for the restaurant's official website.
 
 About Shraddha's Restaurant
+
 The website allows users to make reservations and securely stores reservation data using MongoDB.
 
 Technologies Used
